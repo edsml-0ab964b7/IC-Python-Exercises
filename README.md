@@ -1,3 +1,0 @@
-# IC-Python-Exercises
-
-hhh
